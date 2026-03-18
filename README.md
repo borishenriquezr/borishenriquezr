@@ -4,9 +4,9 @@
 Tengo 23 años y soy el mayor de 3 hermanos
 
 ## 🗞️ Actualmente
--Estoy estudiando en el bootcamp
--Busco pega
--Me preparo para volver a la uni
+- Estoy estudiando en el bootcamp
+- Busco pega
+- Me preparo para volver a la uni
 
 ## 📚 Que estoy aprendiendo
 - Matemáticas
